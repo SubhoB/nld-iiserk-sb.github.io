@@ -23,9 +23,12 @@
                 <header id="header"> <a class="menu_trigger" href="#">menu</a>
                     <nav id="nav">
                         <ul>
-                            {% assign pages_list = site.pages %}<!--a>Creates an array of all available pages for website(all .md files)</a-->
-                            {% assign group = 'navigation' %}<!--a>Only pages with this group name tag will appear on the navigation bar</a-->
-                            {% include pages_list %}<!--a>Call to the pages_list file in _includes folder that constructs the navigation bar</a-->
+                            {% assign sorted_pages = site.pages | sort: "nav_ord" %}
+                            {% for node in sorted_pages %}
+                                {% if node.group=="navigation" %}
+                                    <li><a {% if node.url == page.url %} class="active" {% endif %} href="{{ node.url }}">{{ node.nav_title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
                         </ul>
                     </nav>
                     {% if page.title=='Nonlinear Dynamics Lab' %}
@@ -34,8 +37,11 @@
                     {% endif %}
                 </header>
             </div>
-      
-            {{ content }}
+            <div class="wrapper-holder grey">
+                <section id="main">
+                    {{ content }}
+                </section>
+            </div>
         
         
             <div style="text-align: center;"><img style="width: 111px; height: 110px;" title="logo" src="images/institute_logo.jpg"><br><a target="_blank" href="http://www.iiserkol.ac.in/"> <strong>D</strong>epartment of <strong>P</strong>hysical <strong>S</strong>ciences <br><span style="font-family: Helvetica,Arial,sans-serif;"><strong>I</strong>ndian <strong>I</strong>nstitute of <strong>S</strong>cience <strong>E</strong>ducation and <strong>R</strong>esearch <strong>K</strong>olkata</span></a>
