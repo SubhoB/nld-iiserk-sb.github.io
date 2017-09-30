@@ -1,0 +1,41 @@
+- authors:
+    - author: "G. H. Yuan"
+    - author: "S. Banerjee"
+    - author: "E. Ott"
+    - author: "J. A. Yorke"    
+  title: "Border-collision bifurcations in the buck converter"
+  journal: "IEEE Trans. Circuits Syst. I Fundam. Theory Appl."
+  volume: "45"
+  no: "7"
+  pages: "707-716"
+  date: "Jul. 1998"
+  
+- authors:
+    - author: "S. Banerjee"
+    - author: "C. Grebogi"
+  title: "Border collision bifurcations in two-dimensional piecewise smooth maps"
+  journal: "Phys. Rev. E"
+  volume: "59"
+  pages: "4052-4061"
+  date: "1999"
+  
+- authors:
+    - author: "S. Banerjee"
+    - author: "P. Ranjan"
+    - author: "C. Grebogi"
+  title: "Bifurcations in two-dimensional piecewise smooth maps: Theory and applications in switching circuits"
+  journal: "IEEE Trans. Circuits Systems I Fund. Theory Appl."
+  volume: "47"
+  pages: "633-643"
+  date: "2000"
+  
+- authors:
+    - author: "S. Banerjee"
+    - author: "J. Yorke"
+    - author: "C. Grebogi"
+  title: "Robust chaos"
+  journal: "Phys. Rev. Lett."
+  volume: "80"
+  pages: "3049--3052"
+  date: "1998"
+  
