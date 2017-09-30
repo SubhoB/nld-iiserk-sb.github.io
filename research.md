@@ -9,7 +9,7 @@ nav_ord: 2
 
 <div class="skills_holder">    
     <h2>Ongoing Projects :-</h2>
-    <p class="par">We currently have experimental, theoretical and computational projects related to the application of nonlinear dynamics in diverse fields. Please visit our <a href="people.html"><em>People </em></a>page for more details.</p>
+    <p class="par">We currently have experimental, theoretical and computational projects related to the application of nonlinear dynamics in diverse fields. Please visit our <a href="leader.html"><em>People </em></a>page for more details.</p>
     
 <!--Loop through project title in the '_data/projects.yml' datafile-->
     {% for item in site.data.projects %}

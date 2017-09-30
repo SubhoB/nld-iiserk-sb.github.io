@@ -1,0 +1,83 @@
+- name: Prof. Soumitro Banerjee
+  category: leader
+  img_url: "/images/people_img/sb.png"
+  description: Dr. Soumitro Banerjee (born 1960) did his B.E. from the Bengal Engineering College (Calcutta University) in 1981, M.Tech. from IIT Delhi in 1983, and Ph.D. from the same institute in 1987. He was in the faculty of the Department of Electrical Engineering at the Indian Institute of Technology, Kharagpur, from 1986. He moved to the Indian Institute of Science Education & Research, Kolkata, in 2009, and is a Professor in the Department of Physical Sciences.<br><br>In the past, Dr. Banerjee focused on the nonlinear dynamics of power electronic circuits and systems, and bifurcation theory for nonsmooth systems. Presently his group is attacking more diverse problems in nonlinear dynamics.<br><br>Dr. Banerjee served as Associate Editor of the IEEE Transactions on Circuits &amp; Systems II (2003-05), and as Associate Editor of the IEEE Transactions on Circuits &amp; Systems I (2006-2007).He is a recipient of the S. S. Bhatnagar Prize (2003), and was recognized as a "Highly Cited Author" by Thomson Reuters from 2004 to 2014.He is a Fellow of the Indian Academy of Sciences, the Indian National Academy of Engineering, the Indian National Science Academy, The World Academy of Sciences, and the IEEE.
+  email: soumitro@iiserkol.ac.in
+  ext_url: http://www.researcherid.com/rid/F-8162-2011
+
+- name: Poornima Ramesh
+  category: masters
+  img_url: "/images/people_img/poornima.jpg"
+  description: I am a Masters student working under the joint supervision of Prof. Banerjee and Dr. Jakob Macke at Forschungszentrum caesar in Bonn, Germany. I use generalized linear models to characterize retinal ganglion cell (RGC) response by fitting these models to experimentally obtained data. The goal is to understand how RGCs behave when they are stimulated with electricity, in order to develop retinal prosthetics. These prosthetics would help alleviate blindness in people with retinal degenerative diseases.
+  email: pr13ms083@iiserkol.ac.in
+  ext_url:  
+
+- name: Srashti Goyal
+  category: masters
+  img_url: "/images/people_img/srashti.png"
+  description: I am a BS-MS student with the Department of Physical Sciences at IISER-Kolkata. Currently I am working on bifurcation analysis of discontinuous or resetmap dynamical systems with a focus on the Izheikevich neuron model. My main interest is in the computational modeling and analysis of various physical systems from biophysics to geophysics.
+  email: sg13ms144@iiserkol.ac.in
+  ext_url:
+  
+- name: Subhayu Bagchi
+  category: masters
+  img_url: "/images/people_img/subhayu.png"
+  description: I primarily work in the post-Newtonian formalism using the General Relativistic model of gravitational system. Tell-tale signs of non-linearity, in the form of quasi-periodic or multi-periodic orbits around black hole systems are the focus of my work. Geodesic equations are taken as the basis and hence, this involves heavy computational work. I intend to extend my work into numerical relativity in the coming days, analyzing compact binary systems.<br><br>After completing my preliminary school education, I received my Bachelor’s Degree in Technology, specializing in Electronics and Communications. I have an ardent interest in diverse areas like Internet of Things, Machine Learning and Neural Networks, as well as Artificial Intelligence of game playing bots. Other than this, I am a puzzles and games aficionado and a competitive quizzer.
+  email:
+  ext_url: https://www.researchgate.net/profile/Subhayu_Bagchi
+  
+- name: Sayantan Majumdar
+  category: masters
+  img_url:
+  description: I am a BS-MS student with the Department of Physical Sciences at IISER-Kolkata.
+  email: sm13ms030@iiserkol.ac.in
+  ext_url: https://sayantanmajumdar.gitlab.io
+
+- name: Mahashweta Patra
+  category: phds
+  img_url: "/images/people_img/mahashweta.jpg"
+  description: I received my B.Sc degree in Physics from Visa-Bharati University in 2012. I am a 6th year Integrated PhD student in IISER-Kolkata.<br><br>I am mainly interested in three dimensional piecewise smooth systems. Systems that are not smooth can undergo bifurcations that are forbidden in smooth systems, such as border collision bifurcations and robust chaos. I have also studied synchronization in periodic oscillators.
+  email:
+  ext_url: https://scholar.google.co.in/citations?user=KitzeHQAAAAJ&hl=en&oi=ao
+  
+- name: Soumyajit Seth
+  category: phds
+  img_url: "/images/people_img/soumyajit.jpg"
+  description: I obtained my Bachelors and Masters Degree in Physics from the University of Burdwan, West Bengal, India in 2012 and 2014 respectively. I joined as a guest faculty in the Electronics Department at Burdwan Raj College under the University of Burdwan in 2014. I am now pursuing research and Teaching Assistantship (TA) in different courses with the Department of Physical Sciences at IISER Kolkata. My work is funded by the INSPIRE Scholarship and INSPIRE Fellowship (given by DST).<br><br>My research involves investigating bifurcation phenomena in piecewise smooth systems experimentally. Currently, I am studying multiple attractor bifurcation phenomena, in a real electronic system that gives rise to a 2D piecewise smooth system. 
+  email: ss14rs057@iiserkol.ac.in
+  ext_url:
+  
+- name: Dhrubajyoti Mandal
+  category: phds
+  img_url: "/images/people_img/dhrubajyoti.jpg"
+  description: My research interests lie in the dynamics of piecewise smooth maps. I have been awarded the CSIR-UGC NET Junior Research Fellowship and the IISER-Kolkata Institute Fellowship for pursuing my PhD. 
+  email: dmandal93@gmail.com
+  ext_url: "/people_pdfs/dhrubajyoti_pubs.pdf"
+  
+- name: Arnab Acharya
+  category: phds
+  img_url: "/images/people_img/arnab.png"
+  description: My research interests lie in complex network dynamics. I am presently working on applying complex networks techniques to study vulnerabilities of the Indian power grid. I previously worked on modeling stringed instruments as arrays of coupled oscillators. 
+  email:
+  ext_url:
+  
+- name: Bichitra Kumar Lenka
+  category: phds
+  img_url:
+  description: My research interests lie in fractional order ordinary differential equations. 
+  email:
+  ext_url:
+  
+- name: There are currently no post-doctoral students in the lab
+  category: postdocs
+  img_url:
+  description: Positions open. 
+  email:
+  ext_url:
+  
+- name: Dr. Kuntal Mandal
+  category: alumni
+  img_url: "/images/people_img/kuntal.jpg"
+  description: Dr. Kuntal Mandal was a post-doctoral fellow from 2012 to 2017 at KAU Jedau Saudi Arabia and IISER-Kolkata. His research interests lie in the development of control strategies for power electronic systems. He is currently an Assistant Professor at NIT Sikkim. 
+  email: dr.kuntal.mandal@gmail.com
+  ext_url: "/people_pdfs/kuntal_cv.pdf"

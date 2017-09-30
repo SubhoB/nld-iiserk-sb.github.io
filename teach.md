@@ -25,7 +25,7 @@ nav_ord: 4
         <h2>Outreach:</h2>
         <p>Prof. Banerjee is also involved in several outreach programmes for promoting science education, awareness and scientific thinking in India.</p>
         {% for act in site.data.outreach %} 
-            <span class="par">{{ forloop.index }}. <a target="_blank" href="{{ act.url }}"><em>{{ act.title }}</em></a></span><br>
+            <span class="par">{{ forloop.index }}. <a target="_blank" href="{{ act.url }}"><em>{{ act.title }}</em></a>: {{ act.description }} </span><br>
             <br>
         {% endfor %}
     </div>

@@ -11,7 +11,7 @@ nav_ord: 5
 
 <!--Include contact information-->
 <div class="box_contact"> 
-    <span class="email">For inquiries by email, please contact <a href="people.html" style="color:#90EE90;">Prof. Banerjee</a>
+    <span class="email">For inquiries by email, please contact <a href="leader.html" style="color:#90EE90;">Prof. Banerjee</a>
     </span>
     <span class="address">RC-120,<br>Indian Institute of Science Education and Research-Kolkata,<br>Mohanpur Main Campus,<br>Nadia-741246,<br>West Bengal, India.
     </span> 
