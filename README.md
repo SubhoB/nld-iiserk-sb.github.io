@@ -1,6 +1,6 @@
 ## The repository for the Nonlinear Dynamics Laboratory website ##
 ---
-The website is currently hosted at: www.nld-iiserk-sb.github.io
+The website is currently hosted at: https://nld-iiserk-sb.github.io/
 
 It was created using [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://pages.github.com/).
 ___
