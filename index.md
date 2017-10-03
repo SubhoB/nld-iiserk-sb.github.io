@@ -7,7 +7,7 @@ nav_ord: 1
 ---
 
 <!--Include the wordcloud image-->
-<div style="text-align: center;"><u><strong><img src="images/wordcloud.jpg" style="width: 826px; height: 562px;"></strong></u>
+<div style="text-align: center;"><u><strong><img src="images/wordcloud.jpg" style="width: width: 100%; max-width: 826px; height: 562px;"></strong></u>
 </div>
 
 <!--Introductory title and paragraph-->
