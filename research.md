@@ -30,11 +30,7 @@ nav_ord: 2
     {% for item in site.data.articles %}
         <span>{{ forloop.index }}. 
             {% for aut in item.authors %}
-                {% if aut.author=="S. Banerjee" %}
-                    <strong>{{ aut.author }}</strong>,
-                {% else %}
-                    {{ aut.author }},
-                {% endif %}
+                {{ aut.author }},
             {% endfor %}
             "{{ item. title}}",<strong>{{ item.journal }}</strong>, {{ item.volume }}, {{ item.no }}, pp. {{ item.pages }}, {{ item.date }}. 
         </span><br><br>

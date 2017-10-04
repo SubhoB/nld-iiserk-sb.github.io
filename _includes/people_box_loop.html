@@ -1,34 +1,38 @@
+
+
+
+
 <div>
 {% for member in site.data.people %}
     {% if include.category==member.category %}
-        <div class="">
-            <div class="images"> 
-                <p align="left" ><span><br></span></p>
-                {% if member.img_url==null%}
-                    <img class="img-circle" style="width: 220px; height: 220px;" src="/images/people_img/faceless_man.jpg" align="left">
-                {% else %}
-                    <img class="img-circle" style="width: 220px; height: 220px;" src="{{ member.img_url }}" align="left">
-                {% endif %}
-            </div>
-            <p style="margin-left: 320px;"><span><br></span></p>
-            <h3 style="margin-left: 320px;color:white"><span style="font-family: KacstBook;"><b><strong>{{ member.name }}</strong></b></span> <br>
+        <div class="images_holder"> 
+            {% if member.img_url==null%}
+                <img class="img-circle" style="height: 250px; width: 250px" src="/images/people_img/faceless_man.jpg" alt="">
+            {% else %}
+                <img class="img-circle" style="height: 250px; width: 250px" src="{{ member.img_url }}" alt="">
+            {% endif %}
+        </div>
+        
+        <div class="people">
+            <h3 style="color:white"><span style="font-family: KacstBook;"><b><strong>{{ member.name }}</strong></b><br><br></span>
             </h3>
             
-            <p style="margin-left: 320px;"><span style="font-family: Times New Roman,Times,serif;">{{ member.description }}<br></span>
-            </p>
-
+            <span style="font-family: Times New Roman,Times,serif;">{{ member.description }}<br><br></span>
+            
             {% if member.email!=null %}
-                <p style="margin-left: 320px;"><span style="font-family: Times New Roman,Times,serif;"><span style="color:white;">Email ID:</span> {{ member.email }}</span> 
-                </p>
+                <span style="font-family: Times New Roman,Times,serif;"><span style="color:white;">Email ID:</span> {{ member.email }}<br><br></span> 
             {% endif %}
     
             {% if member.ext_url!=null %}
-                <p style="margin-left: 320px; font-family: Times New Roman; text-align: justify;">More information available <a class="par" target="_blank" href="{{ member.ext_url }}"><em>here</em></a>
-                </p>
+                <span style="font-family: Times New Roman,Times,serif;">More information available <a class="par" target="_blank" href="{{ member.ext_url }}"><em>here</em></a>
+                </span>
             {% endif %} 
         
         </div>
-        <p style="margin-left: 320px;"><span><br><br><br></span></p>
+            
+        <div class="clear">
+        </div>
+        <p><span><br><br><br></span></p>
     {% endif %}
 {% endfor %}
 </div>    
