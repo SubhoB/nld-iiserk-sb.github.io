@@ -17,7 +17,7 @@ title: NLD-Lab IISER-K
 #email: your-email@example.com
 description: We work on problems in nonlinear dynamics with applications in various fields ranging from power grid management to relativity.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.iiserkol.ac.in/~soumitro/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
