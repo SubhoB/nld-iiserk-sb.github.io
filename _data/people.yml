@@ -81,3 +81,10 @@
   description: Dr. Kuntal Mandal was a post-doctoral fellow from 2012 to 2017 at KAU Jedau Saudi Arabia and IISER-Kolkata. His research interests lie in the development of control strategies for power electronic systems. He is currently an Assistant Professor at NIT Sikkim. 
   email: dr.kuntal.mandal@gmail.com
   ext_url: "/people_pdfs/kuntal_cv.pdf"
+
+- name: Chiranjit Mitra
+  category: alumni
+  img_url: "/images/people_img/Chiranjit_Mitra.jpg"
+  description: I graduated with a B.S. - M.S. Dual Degree in Physics from IISER Kolkata in 2014. I was a part of the lab while I was working for my Master's thesis under the supervision of Prof. Soumitro Banerjee. During my stay at the lab, I was primarily interested in the dynamics of complex networks of delay coupled nonlinear time-delay systems.<br><br> Presently, I am enrolled as a Ph.D. student of Physics at the Department of Physics, Humboldt University of Berlin while I work as a doctoral researcher at the Potsdam Institute for Climate Impact Research (PIK). My present research interests, as a part of my doctoral dissertation comprise developing stability & resilience measures for multistable complex dynamical systems.
+  email: chiranjitmitra4u@gmail.com
+  ext_url: https://www.pik-potsdam.de/~mitra
