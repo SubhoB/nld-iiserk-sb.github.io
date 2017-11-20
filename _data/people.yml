@@ -88,3 +88,10 @@
   description: I graduated with a B.S. - M.S. Dual Degree in Physics from IISER Kolkata in 2014. I was a part of the lab while I was working for my Master's thesis under the supervision of Prof. Soumitro Banerjee. During my stay at the lab, I was primarily interested in the dynamics of complex networks of delay coupled nonlinear time-delay systems.<br><br> Presently, I am enrolled as a Ph.D. student of Physics at the Department of Physics, Humboldt University of Berlin while I work as a doctoral researcher at the Potsdam Institute for Climate Impact Research (PIK). My present research interests, as a part of my doctoral dissertation comprise developing stability & resilience measures for multistable complex dynamical systems.
   email: chiranjitmitra4u@gmail.com
   ext_url: https://www.pik-potsdam.de/~mitra
+
+- name: Arindam Saha
+  category: alumni
+  img_url: "/images/people_img/arindam_saha.jpg"
+  description: I completed my B.S.-M.S. dual degree (physics majors) from IISER Kolkata in 2015. In my masters' thesis completed under Prof. Banerjee, I worked on the generalization of dangerous bifurcations occurring in piecewise smooth maps. My work primarily comprised of finding additional mechanisms by which --- and uncovering additional regions in the parameter space where --- such bifurcations might occur.<br><br>Currently, I am working as a Ph.D. student in the University of Oldenburg, Germany on the generation and propagation of extreme events which are rare, aperiodic, recurrent events which have a large impact on dynamical systems. Currently, I am studying model excitable systems like FitzHugh-Nagumo Oscillators (which are known to generate extreme events) and trying to find signatures left by such events prior to their occurrence and develop precursors to these events
+  email: arindam.saha@uni-oldenburg.de
+  ext_url: https://scholar.google.com/citations?user=p6ciQG8AAAAJ&hl=hi&oi=sra
