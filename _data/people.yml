@@ -95,3 +95,17 @@
   description: I completed my B.S.-M.S. dual degree (physics majors) from IISER Kolkata in 2015. In my masters' thesis completed under Prof. Banerjee, I worked on the generalization of dangerous bifurcations occurring in piecewise smooth maps. My work primarily comprised of finding additional mechanisms by which --- and uncovering additional regions in the parameter space where --- such bifurcations might occur.<br><br>Currently, I am working as a Ph.D. student in the University of Oldenburg, Germany on the generation and propagation of extreme events which are rare, aperiodic, recurrent events which have a large impact on dynamical systems. Currently, I am studying model excitable systems like FitzHugh-Nagumo Oscillators (which are known to generate extreme events) and trying to find signatures left by such events prior to their occurrence and develop precursors to these events
   email: arindam.saha@uni-oldenburg.de
   ext_url: https://scholar.google.com/citations?user=p6ciQG8AAAAJ&hl=hi&oi=sra
+  
+ - name: Ankur Shringi
+  category: alumni
+  img_url: "/images/people_img/Photograph_Ankur_Shringi.JPG"
+  description: I did my B.S.-M.S. majoring in physics from IISER Kolkata. I worked with Prof. Soumitro Banerjee and Dr. Punyasloke Bhaduri on modelling of seasonal phytoplankton bloom in the Sunderban delta-estuarine system for my masters project at IISER. I took advantage of my Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship and worked on a variety of small projects such as KDP crystal-growth at Indian Institute of Science, Bengaluru, Pockel’s effect at Raja Ramanna Centre for Advanced Technology, Indore, brain machine interfacing at National Brain Research Centre, Manesar. As a recipient of the DAAD fellowship, I worked on flattening of the supercontinuum spectra of light for astronomical purpose at Max Planck Institute of Quantum Optics, Munich, Germany.<br><br>I am currently pursuing my PhD under the guidance of Prof. R. Sukumar at Indian Institute of Science, Bengaluru. I am modeling the role of rainfall and fire in aboveground biomass dynamics in the tropical forests of Mudumalai Tiger Reserve, Tamil Nadu, India. I am also modeling allometric relationship between tree height and trunk diameter across the entire latitudinal range of the evergreen forests of Western Ghats.
+  email: ankurshringi@iisc.ac.in
+  ext_url:
+
+ - name: Abhranil Das
+  category: alumni
+  img_url: "/images/people_img/abhranil_das.jpg"
+  description: I did my masters in Physics in Dr Banerjee's group in 2013, on the dynamics of the thermal ratchets model of diffusive transport. I am now a physics PhD student at the University of Texas at Austin. For my research I've been working at the Center for Learning and Memory, and the Center for Perceptual Systems, in the departments of Neuroscience and Psychology. I have worked with Dr Ila Fiete on theoretical and computational neuroscience, and with Dr Wilson Geisler on theoretical, computational and experimental approaches to understanding vision.
+  email: abhranil@abhranil.net
+  ext_url: http://www.abhranil.net/
